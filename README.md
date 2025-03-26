@@ -1,5 +1,8 @@
 # AutoMyET
 
+> [!NOTE]  
+> 這個程式只支援2K解析度的螢幕
+
 # 前置作業
 
 ## 1.開啟MyET Windows版
