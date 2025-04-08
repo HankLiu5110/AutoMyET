@@ -5,7 +5,7 @@
 
 ## 前置作業
 
-安裝VB-Cable，[點此下載](<https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack45.zip>)
+安裝VB-Cable，[點此下載](<https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack45.zip>)，下載完成後解壓縮並執行[VBCABLE_Setup_x64.exe]這個檔案，
 
 ### 1. 啟動 MyET Windows 版
 請先開啟 MyET 的 Windows 版本。
